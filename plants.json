@@ -3,6 +3,7 @@
 		"id":1,
 		"name":"Argintica",
 		"region":"Muntii Carpati si Apuseni",
+		"description":"Argintica (Dryas octapetala) este o planta lemnoasa pitica din familia Rosaceae. Are tulpini culcate, foarte ramificate, formand pajisti dese. Frunzele, verzi si iarna, alungit eliptice, la varf rotunjite, pieloase, pe fata de un verde intunecat, lucitoare, pe dos alb argintii (datorita unei plase de peri), pe margini dantelate, cu dinti rotunjiti, stau pe codite scurte. Florile izolate, albe, mari, de obicei cu opt petale si cu numeroase stamine galbene stau pe codite lungi, paroase. Infloreste in luna iunie-august.",
 		"urlImage":"https://darcyeverest.co.uk/wp-content/uploads/2019/11/dryas-octopetala-rotated.jpg",
 		"url":"https://ro.wikipedia.org/wiki/Argin%C8%9Bica"
 	},
@@ -10,6 +11,7 @@
 		"id":2,
 		"name":"Brandusa de munte",
 		"region":"Muntii Carpati si Apuseni",
+		"description":"asa",
 		"urlImage":"https://i.pinimg.com/originals/9b/70/f6/9b70f6f2c37c30bac0d282bd5b4f8a24.jpg",
 		"url":"https://ro.wikipedia.org/wiki/Br%C3%A2ndu%C8%99%C4%83_de_munte"
 	},
@@ -17,6 +19,7 @@
 		"id":3,
 		"name":"Crucea voinicului",
 		"region":"Muntii Carpati",
+		"description":"asa",
 		"urlImage":"https://www.ideipentrugradina.ro/wp-content/uploads/2020/03/Crucea-voinicului-%E2%80%93-Hepatica.jpg",
 		"url":"https://ro.wikipedia.org/wiki/Crucea_voinicului"
 	},
@@ -24,6 +27,7 @@
 		"id":4,
 		"name":"Floare de colt",
 		"region":"Muntii Carpati",
+		"description":"asa",
 		"urlImage":"https://upload.wikimedia.org/wikipedia/commons/3/38/Alpen_Edelwei%C3%9F%2C_Leontopodium_alpinum_2.JPG",
 		"url":"https://ro.wikipedia.org/wiki/Floarea-reginei"
 	},
@@ -31,6 +35,7 @@
 		"id":5,
 		"name":"Garofita alba de stanci",
 		"region":"Muntii Carpati",
+		"description":"asa",
 		"urlImage":"https://alpinet.org/foto/2008/03/27/MmQ2ZWEyMmYxMDU5ZGRjYWU4YjlkZjc1NTQ2ZWYxZTfoto_70086.jpg",
 		"url":"https://ro.wikipedia.org/wiki/Garofi%C8%9B%C4%83_alb%C4%83_de_st%C3%A2nci"
 	},
@@ -38,6 +43,7 @@
 		"id":6,
 		"name":"Garofita Pietrei Craiului",
 		"region":"Muntii Carpati",
+		"description":"asa",
 		"urlImage":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Dianthus_callizonus_1.JPG",
 		"url":"https://ro.wikipedia.org/wiki/Garofi%C8%9Ba_Pietrei_Craiului"
 	},
@@ -45,6 +51,7 @@
 		"id":7,
 		"name":"Mac galben de munte",
 		"region":"Muntii Carpati",
+		"description":"asa",
 		"urlImage":"https://alpinet.org/foto/2010/09/09/ODQ5MjE1NjVhMmY4NzAwNWI2YTU2YjNlNTBkMGYxNjfoto_101471.jpg",
 		"url":"https://ro.wikipedia.org/wiki/Mac_galben_de_munte"
 	},
@@ -52,6 +59,7 @@
 		"id":8,
 		"name":"Nufar termal",
 		"region":"Muntii Carpati",
+		"description":"asa",
 		"urlImage":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Nymphaea_lotus_var._thermalis.jpg",
 		"url":"https://ro.wikipedia.org/wiki/Nuf%C4%83r_termal"
 	},
@@ -59,6 +67,7 @@
 		"id":9,
 		"name":"Ochiul boului de munte",
 		"region":"Muntii Carpati",
+		"description":"asa",
 		"urlImage":"https://i.pinimg.com/originals/45/b1/e6/45b1e6255a45499f9b529c5bb3ff35cc.jpg",
 		"url":"https://ro.wikipedia.org/wiki/Ochiul_boului_de_munte"
 	},
@@ -66,6 +75,7 @@
 		"id":10,
 		"name":"Sunatoare",
 		"region":"Muntii Carpati",
+		"description":"asa",
 		"urlImage":"http://www.gardenfarm.ro/images/detailed/22/sunatoare_poza_mica.jpg",
 		"url":"https://ro.wikipedia.org/wiki/Sun%C4%83toare"
 	}
