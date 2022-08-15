@@ -38,5 +38,373 @@
 		"description":"Brandusa de munte, cunoscuta si sub denumirile Crocus heuffelianus sau Crocus vernus (din latina) este o planta scunda din familia de plante Iridaceae.\n\nIn Romania, aceasta specie este intalnita in muntii Carpati si in muntii Apuseni, in palcuri dese, incepand din zona paduroasa, prin pasuni si alte locuri ierboase deschise. \n\nPerioada de inflorire a Brandusei de munte incepe din luna februarie si tine pana in luna mai. Planta are o singura tulpina, iar frunzele sale sunt in nuante de verde inchis. Floarea este formata din 6 petale in nuante de violet, alb, galben, sau in combinatie. Brandusa de munte poate fi plantata si in ghivece pentru a decora terasele, balcoanele si pentru a da un aer proaspat de primavara.",
 		"urlImage":"https://www.gardenexpert.ro/70-large_default/brandusa-de-munte.jpg",
 		"url":"https://merg.in/busteni/de-vizitat/natura/flora-bucegi/brandusa-de-munte-crocus-heuffelianus-4286.html"
+	},
+	{
+		"id":6,
+		"name":"Bujor romanesc",
+		"region":"Parcul Natural Comana si Padurea Troianu din jud. Teleorman",
+		"description":"Bujorul romanesc, cunoscut si sub denumirea Paeonia peregrina var. romanica (din latina) este o specie de bujor din familia Paeonia. \n\nEste o planta ocrotita de lege, asadar nu trebuie distrusa sau colectionata. In acelasi timp, este o specie unica in Europa, fiind considerat element de identitate nationala. \n\nIn Romania, aceasta specie este intalnita in padurile de campie sau la marginea acestora, in Dobrogea, Muntenia si sudul Moldovei. Se gaseste de asemenea in Parcul Natural Comana in locurile insorite, precum si in Padurea Troianu din judetul Teleorman. \n\n Bujorul romanesc infloreste in perioada primavera-vara, o singura data pe an, timp de 10 zile. Floarea este de o culoare rosu aprins, de dimensiune mare si are petale mai putine decat bujorul de gradina.",
+		"urlImage":"https://bs.plantnet.org/image/o/729121199c426d939d74762ad437d58f418962eb",
+		"url":"https://www.horticultorul.ro/flori-de-apartament-gradina/bujorul-romanesc-paeonia-peregrina/"
+	},
+	{
+		"id":7,
+		"name":"Bulbuc de munte",
+		"region":"Muntii Carpati",
+		"description":"Bulbucul de munte, cunoscut si sub denumirea Trollius europaeus (din latina) face parte din familia Ranunculaceae, fiind o planta perena cu flori. \n\nIn Romania, aceasta specie este intalnita in muntii Carpati, din zona de padure pana in zona alpina, prin pasuni, poieni, brane, in locuri umede. \n\nPerioada de inflorire a Bulbucului de munte are loc la sfarsitul primaverii-inceputul verii, notabile fiind lunile Mai si Iunie. Florile sale sunt maiestuase, de culoare galben-verziu sau galben-auriu, cu mici nervure verzi la exterior. Le este favorabila umiditatea medie spre ridicata, de aceea se recomanda o hidratare constanta a solului in care sunt plantate.",
+		"urlImage":"https://bs.plantnet.org/image/o/316784a8ef28f724c0d5506a7a942969826ee106",
+		"url":"https://ro.wikipedia.org/wiki/Bulbuc_de_munte"
+	},
+	{
+		"id":8,
+		"name":"Cerentel de munte",
+		"region":"Muntii Carpati",
+		"description":"Cerentelul de munte, cunoscut si sub denumirea Geum reptans (din latina) face parte din familia de plante Rosaceae. \n\nIn Romania, aceasta specie este intalnita prin bolovanisurile si grohotisurile din muntii Carpati rasariteni si cei sudici. \n\nPerioada de inflorire a Cerentelului de munte are loc in lunile Iulie-August. Florile sale sunt mari, de un galben viu sau portocalii, de obicei cu 6 petale late si retezate. Tulpina este scunda, iar frunzele de la baza sunt compuse din mai multe segmente.",
+		"urlImage":"https://bs.plantnet.org/image/o/659df256f66f7e7f1964246ef6460447a037f824",
+		"url":"https://ro.wikipedia.org/wiki/Ceren%C8%9Bel_de_munte"
+	},
+	{
+		"id":9,
+		"name":"Ciubotica cucului de munte",
+		"region":"Muntii Carpati",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/4002ff41ffb4c75f0c1290275b4af1fe8aaa394b",
+		"url":""
+	},
+	{
+		"id":10,
+		"name":"Ciurul zanelor",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/4e5cd911d7a5ba998e40f9656a30a96020465a88",
+		"url":""
+	},
+	{
+		"id":11,
+		"name":"Clopotel pitic de stanca",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/e3ae7e66fbc8da5a857197f5105f939efdf88b44",
+		"url":""
+	},
+	{
+		"id":12,
+		"name":"Cornut de munte",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/7655de5addb5bfcb52f8ddde805776374cad3f98",
+		"url":""
+	},
+	{
+		"id":13,
+		"name":"Crin de padure",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/5153787a554453e4e0b16eabb772474a65002377",
+		"url":""
+	},
+	{
+		"id":14,
+		"name":"Crucea voinicului",
+		"region":"",
+		"description":"",
+		"urlImage":"https://scms.machteamsoft.ro/uploads/photos/652x450/652x450_096200-crucea-voinicului.jpg",
+		"url":""
+	},
+	{
+		"id":15,
+		"name":"Degetarut",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/f4b947722ead3b5998c22f18b8cc579d69e6f654",
+		"url":""
+	},
+	{
+		"id":16,
+		"name":"Floare de colt",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/3ec0b9ebb43a609622f452379c5f6ead565eb4a5",
+		"url":""
+	},
+	{
+		"id":17,
+		"name":"Frasinel",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/dbfe6a55f867fea523e701592b8a69248521ad94",
+		"url":""
+	},
+	{
+		"id":18,
+		"name":"Garofita alba de stanci",
+		"region":"",
+		"description":"",
+		"urlImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DianthusBarbatus.jpg/1200px-DianthusBarbatus.jpg",
+		"url":""
+	},
+	{
+		"id":19,
+		"name":"Garofita Pietrei Craiului",
+		"region":"",
+		"description":"",
+		"urlImage":"https://cultivaprofitabil.ro/wp-content/uploads/2021/11/garofita-piatra-craiului-floare-roz.jpg",
+		"url":""
+	},
+	{
+		"id":20,
+		"name":"Ghintura de primavara",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/eb9c939dac2253dd28de1abb6c835666b10a18a4",
+		"url":""
+	},
+	{
+		"id":21,
+		"name":"Ghintura galbena",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/35f66c82e652a6fe6552c952a21a0a5d65dd6450",
+		"url":""
+	},
+	{
+		"id":22,
+		"name":"Ghiocel de balta",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/9aae237d650826cc81850b2968effe04af34a385",
+		"url":""
+	},
+	{
+		"id":23,
+		"name":"Iarba de soaldina",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/741eee315f177698f9cb4af83c80df7c8fa220c3",
+		"url":""
+	},
+	{
+		"id":24,
+		"name":"Iris de balta",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/cda6c186a76ccab014bcb72f6b8f208fec660fba",
+		"url":""
+	},
+	{
+		"id":25,
+		"name":"Lalea pestrita",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/e3548f39815638e7b6554f6ea69e25c9676c982a",
+		"url":""
+	},
+	{
+		"id":26,
+		"name":"Lana caprelor",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/5567d8b8209a22c0db9a2ec36f345c8277bbbdc4",
+		"url":""
+	},
+	{
+		"id":27,
+		"name":"Laptisor",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/b8df37a340d134e95f9cc88e5c7d28de63cfeb92",
+		"url":""
+	},
+	{
+		"id":28,
+		"name":"Liliac",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/a37113b1931a5a26950a379b7cf4df73b5d0552f",
+		"url":""
+	},
+	{
+		"id":29,
+		"name":"Linarita de munte",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/ab247051df6eb4277799074dcdddb192f899052e",
+		"url":""
+	},
+	{
+		"id":30,
+		"name":"Luntricica galbena",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/3beca46413cd1d92ae8e972d84b36107e61c5e2f",
+		"url":""
+	},
+	{
+		"id":31,
+		"name":"Mac galben de munte",
+		"region":"",
+		"description":"",
+		"urlImage":"http://2.bp.blogspot.com/-epArwqW3hlE/ToSOFcxpixI/AAAAAAAARWA/4Z5bnCayaMI/s1600/DSC09897.JPG",
+		"url":""
+	},
+	{
+		"id":32,
+		"name":"Maces",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/fa6376418f1d021fb6a3fa28302d41067d934d91",
+		"url":""
+	},
+	{
+		"id":33,
+		"name":"Macrisul iepurelui",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/6b43d565f1289357c5f1d112af8ec12f03ac1dde",
+		"url":""
+	},
+	{
+		"id":34,
+		"name":"Mierluta pitica",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/d738b5ed87c63ec0e7f30ee2fad20344decc32cd",
+		"url":""
+	},
+	{
+		"id":35,
+		"name":"Mojdrean",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/2a43728ff60f75562d701ae052a6dbedd7aed2c9",
+		"url":""
+	},
+	{
+		"id":36,
+		"name":"Narcisa salbatica",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/a6524b589ef33dcef51fc671666539909e7d914a",
+		"url":""
+	},
+	{
+		"id":37,
+		"name":"Nufar termal",
+		"region":"",
+		"description":"",
+		"urlImage":"https://i0.wp.com/matinal.ro/wp-content/uploads/2022/02/nufarul-termal.jpg?fit=1600%2C1200&ssl=1",
+		"url":""
+	},
+	{
+		"id":38,
+		"name":"Ochelarita",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/02e96c2d4eb745e2139210b742f5cc87bdf4ad12",
+		"url":""
+	},
+	{
+		"id":39,
+		"name":"Ochii soricelului",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/8948eacf237a764fa0b9f085f1b98169e1f64f73",
+		"url":""
+	},
+	{
+		"id":40,
+		"name":"Ochiul boului de munte",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/cec278b9f7f361eb8a2290cfe5b6b6ae61d1f41e",
+		"url":""
+	},
+	{
+		"id":41,
+		"name":"Ochiul sarpelui",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/52e420563f1974781f8c0c58c1e1ce64843aaaff",
+		"url":""
+	},
+	{
+		"id":42,
+		"name":"Omag galben",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/fc93553e1c09b4ff05fa4515f15cf3ac845868b4",
+		"url":""
+	},
+	{
+		"id":43,
+		"name":"Papucul Doamnei",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/69a5a01894e66708ef6eb8342236be4583e6ae93",
+		"url":""
+	},
+	{
+		"id":44,
+		"name":"Poroinic",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/e7d37adcffaa0ae75f0899c940bdf893957863df",
+		"url":""
+	},
+	{
+		"id":45,
+		"name":"Roua cerului",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/8b2ffa303779ed75601cf4827b6e6acb83099ffe",
+		"url":""
+	},
+	{
+		"id":46,
+		"name":"Ruscuta de primavara",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/7c7b03dfe5cf91c8a6416a5d04a0a4c944ce34fb",
+		"url":""
+	},
+	{
+		"id":47,
+		"name":"Saxifraga rosie",
+		"region":"",
+		"description":"",
+		"urlImage":"https://cdn.shopify.com/s/files/1/0531/6483/5013/products/saxifraga-touran-deep-red-763123_600x.jpg?v=1649795246",
+		"url":""
+	},
+	{
+		"id":48,
+		"name":"Sunatoare",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/ef2eabc38b4b70d9c4826fec33562a97cd5791ca",
+		"url":""
+	},
+	{
+		"id":49,
+		"name":"Susai",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/c82e88de1faae792af1cf68faf489311ed1f9d46",
+		"url":""
+	},
+	{
+		"id":50,
+		"name":"Toporas galben de munte",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/b4fed462a9f8b451c8b0f9ea4cb44b86a6891725",
+		"url":""
+	},
+	{
+		"id":51,
+		"name":"Vartejul pamantului",
+		"region":"",
+		"description":"",
+		"urlImage":"https://bs.plantnet.org/image/o/b3ce499bdae36ae6dc4f887e2d2b4ca1c922e3dd",
+		"url":""
 	}
 ]
