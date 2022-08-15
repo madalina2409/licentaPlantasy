@@ -3,7 +3,7 @@
 		"id":1,
 		"name":"Anghinarea oilor",
 		"region":"Muntii Carpati",
-		"description":"Anghinarea oilor, cunoscuta si sub denumirea Hypochaeris uniflora (din latina) face parte din familia de plante Asteraceae, fiind o planta erbacee perena. In Romania, aceasta specie creste in muntii Carpati, in pajisti de pe coaste inierbate si stancoase, in exemplare izolate sau in grupuri. \nAnghinarea oilor infloreste in lunile iulie-august. Florile sunt mari, de culoare galbena, iar frunzele alungite cresc de obicei la baza tulpinii, indreptate in sus.",
+		"description":"Anghinarea oilor, cunoscuta si sub denumirea 'Hypochaeris uniflora' (din latina) face parte din familia de plante Asteraceae, fiind o planta erbacee perena. \n\nIn Romania, aceasta specie creste in muntii Carpati, in pajisti de pe coaste inierbate si stancoase, in exemplare izolate sau in grupuri. \n\nAnghinarea oilor infloreste in lunile iulie-august. Florile sunt mari, de culoare galbena, iar frunzele alungite cresc de obicei la baza tulpinii, indreptate in sus.",
 		"urlImage":"https://bs.plantnet.org/image/o/33fd11772d36d9154e263626c1b0c401f5b81281",
 		"url":"https://ro.wikipedia.org/wiki/Anghinarea_oilor"
 	},
@@ -11,80 +11,32 @@
 		"id":2,
 		"name":"Argintica",
 		"region":"Muntii Carpati si Apuseni",
-		"description":"Argintica (Dryas octapetala) este o planta lemnoasa pitica din familia Rosaceae. Are tulpini culcate, foarte ramificate, formand pajisti dese. Frunzele, verzi si iarna, alungit eliptice, la varf rotunjite, pieloase, pe fata de un verde intunecat, lucitoare, pe dos alb argintii (datorita unei plase de peri), pe margini dantelate, cu dinti rotunjiti, stau pe codite scurte. Florile izolate, albe, mari, de obicei cu opt petale si cu numeroase stamine galbene stau pe codite lungi, paroase. Infloreste in luna iunie-august.",
+		"description":"Argintica, cunoscuta si sub denumirea 'Dryas octapetala' (din latina) face parte din familia Rosaceae, fiind o planta lemnoasa pitica. \n\nIn Romania, aceasta specie creste in muntii Carpati si in muntii Apuseni, fiind cel mai des intalnita pe coastele de pe versatii nordici, prin locuri stancoase si numai pe roci calcaroase. \n\nArgintica infloreste in lunile iunie-august. Florile sale sunt izolate, albe, mari si de obicei au opt petale cu numeroase stamine galbene. Tulpinile sunt culcate, ramificate, fapt care duce la formarea pajistilor dese.",
 		"urlImage":"https://darcyeverest.co.uk/wp-content/uploads/2019/11/dryas-octopetala-rotated.jpg",
 		"url":"https://ro.wikipedia.org/wiki/Argin%C8%9Bica"
 	},
 	{
 		"id":3,
-		"name":"Brandusa de munte",
-		"region":"Muntii Carpati si Apuseni",
-		"description":"asa",
-		"urlImage":"https://i.pinimg.com/originals/9b/70/f6/9b70f6f2c37c30bac0d282bd5b4f8a24.jpg",
-		"url":"https://ro.wikipedia.org/wiki/Br%C3%A2ndu%C8%99%C4%83_de_munte"
+		"name":"Armeria",
+		"region":"Muntii Bucegi, Barsei si Fagaras",
+		"description":"Armeria, cunoscuta si sub denumirea ‘Armeria alpina' (din latina) face parte din familia Plumbaginaceae. \n\nIn Romania, aceasta specie creste in muntii Bucegi, Barsei si Fagaras, prin pasuni si locuri stancoase. \n\nArmeria infloreste in lunile iulie-august. Florile sale sunt grupate sub forma unui ghem cu multe flori mici, de culoare roz-lila. Plantele de Armeria cresc in tufe dese, iar frunzele lor sunt alungite, inguste si putin carnoase.",
+		"urlImage":"https://bs.plantnet.org/image/o/883d5b3d996abb88f9542dd1f782cd66bd5e560f",
+		"url":"https://ro.wikipedia.org/wiki/Armeria"
 	},
 	{
 		"id":4,
-		"name":"Crucea voinicului",
+		"name":"Banica",
 		"region":"Muntii Carpati",
-		"description":"asa",
-		"urlImage":"https://www.ideipentrugradina.ro/wp-content/uploads/2020/03/Crucea-voinicului-%E2%80%93-Hepatica.jpg",
-		"url":"https://ro.wikipedia.org/wiki/Crucea_voinicului"
+		"description":"Banica, cunoscuta si sub denumirea ‘Phyteuma orbiculare' (din latina) face parte din familia de plante Campanulaceae, fiind o planta perena erbacee din genul Phyteuma. \n\nIn Romania, aceasta specie creste in muntii Carpati, in  locuri stancoase. \n\nBanica infloreste din mai pana in august. Floarea sa este sub forma globulara, de un albastru intens. Tulpina este dreapta, iar frunzele au forme variate.",
+		"urlImage":"https://bs.plantnet.org/image/o/36f11cf22c1514fed295dcedc660fe244f92473a",
+		"url":"https://koaha.org/wiki/Phyteuma_orbiculare"
 	},
 	{
 		"id":5,
-		"name":"Floare de colt",
-		"region":"Muntii Carpati",
-		"description":"asa",
-		"urlImage":"https://upload.wikimedia.org/wikipedia/commons/3/38/Alpen_Edelwei%C3%9F%2C_Leontopodium_alpinum_2.JPG",
-		"url":"https://ro.wikipedia.org/wiki/Floarea-reginei"
+		"name":"Brandusa de munte",
+		"region":"Muntii Carpati si Apuseni",
+		"description":"Brandusa de munte, cunoscuta si sub denumirile ‘Crocus heuffelianus' sau ‘Crocus vernus’ (din latina) este o planta scunda din familia de plante Iridaceae.\n\nIn Romania, aceasta specie este intalnita in muntii Carpati si in muntii Apuseni, in palcuri dese, incepand din zona paduroasa, prin pasuni si alte locuri ierboase deschise. \n\nPerioada de inflorire a Brandusei de munte incepe din luna februarie si tine pana in luna mai. Planta are o singura tulpina, iar frunzele sale sunt intr-o nuanta de verde inchis. Floarea este formata din 6 petale in nuante de violet, alb, galben, sau in combinatie. Brandusa de munte poate fi plantata si in ghivece pentru a decora terasele, balcoanele si pentru a da un aer proaspat de primavera.",
+		"urlImage":"https://bs.plantnet.org/image/o/3a5ad955b3308343e009423786ea4e82b82bb77a",
+		"url":"https://merg.in/busteni/de-vizitat/natura/flora-bucegi/brandusa-de-munte-crocus-heuffelianus-4286.html"
 	},
-	{
-		"id":6,
-		"name":"Garofita alba de stanci",
-		"region":"Muntii Carpati",
-		"description":"asa",
-		"urlImage":"https://alpinet.org/foto/2008/03/27/MmQ2ZWEyMmYxMDU5ZGRjYWU4YjlkZjc1NTQ2ZWYxZTfoto_70086.jpg",
-		"url":"https://ro.wikipedia.org/wiki/Garofi%C8%9B%C4%83_alb%C4%83_de_st%C3%A2nci"
-	},
-	{
-		"id":7,
-		"name":"Garofita Pietrei Craiului",
-		"region":"Muntii Carpati",
-		"description":"asa",
-		"urlImage":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Dianthus_callizonus_1.JPG",
-		"url":"https://ro.wikipedia.org/wiki/Garofi%C8%9Ba_Pietrei_Craiului"
-	},
-	{
-		"id":8,
-		"name":"Mac galben de munte",
-		"region":"Muntii Carpati",
-		"description":"asa",
-		"urlImage":"https://alpinet.org/foto/2010/09/09/ODQ5MjE1NjVhMmY4NzAwNWI2YTU2YjNlNTBkMGYxNjfoto_101471.jpg",
-		"url":"https://ro.wikipedia.org/wiki/Mac_galben_de_munte"
-	},
-	{
-		"id":9,
-		"name":"Nufar termal",
-		"region":"Muntii Carpati",
-		"description":"asa",
-		"urlImage":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Nymphaea_lotus_var._thermalis.jpg",
-		"url":"https://ro.wikipedia.org/wiki/Nuf%C4%83r_termal"
-	},
-	{
-		"id":10,
-		"name":"Ochiul boului de munte",
-		"region":"Muntii Carpati",
-		"description":"asa",
-		"urlImage":"https://i.pinimg.com/originals/45/b1/e6/45b1e6255a45499f9b529c5bb3ff35cc.jpg",
-		"url":"https://ro.wikipedia.org/wiki/Ochiul_boului_de_munte"
-	},
-	{
-		"id":11,
-		"name":"Sunatoare",
-		"region":"Muntii Carpati",
-		"description":"asa",
-		"urlImage":"http://www.gardenfarm.ro/images/detailed/22/sunatoare_poza_mica.jpg",
-		"url":"https://ro.wikipedia.org/wiki/Sun%C4%83toare"
-	}
 ]
